@@ -1,0 +1,17 @@
+var api = "http://node.urbancash.org:8117";
+
+var coinUnits = 60000000;
+
+var poolHost = "node.urbancash.org";
+
+var irc = "";
+
+var email = "urbancash@urbancash.org";
+
+var cryptonatorWidget = ["URBC-BTC", "URBC-USD", "URBC-EUR", "URBC-GBP"];
+
+var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
+
+var blockchainExplorer = "http://explorer.urbancash.org/?hash=#blockhttp://explorer.urbancash.org/?hash=#block"";
+
+var transactionExplorer = "http://chainradar.com/xmr/transaction/";
